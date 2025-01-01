@@ -1,3 +1,3 @@
 https://gymnasium.farama.org/environments/toy_text/frozen_lake/  
 
-$$ L(\theta)= \frac {N}{1} \sum_{i=1}^N $$
+$$ L(\theta)= \frac {1}{N} \sum_{i=1}^N $$
