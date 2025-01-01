@@ -1,6 +1,8 @@
 https://gymnasium.farama.org/environments/toy_text/frozen_lake/  
 
 ---
+深度Q網路(DQN)Deep Q Network  
+經驗回放緩沖區(Experience Replay Buffer)  
 損失函數(Loss Function)  
 MSE（Mean-Square Error）  
 
