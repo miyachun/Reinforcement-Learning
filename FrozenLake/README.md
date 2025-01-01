@@ -1,3 +1,3 @@
 https://gymnasium.farama.org/environments/toy_text/frozen_lake/  
 
-$$ L(\theta)= \frac {1}{N} \sum_{i=1}^N \left( ri+\gamma \quad × 5/18 max Q{_\theta}^1 \right) $$
+$$ L(\theta)= \frac {1}{N} \sum_{i=1}^N \left( ri+\gamma \ max Q{_\theta}^1 \right) $$
