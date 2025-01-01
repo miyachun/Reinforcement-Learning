@@ -5,11 +5,11 @@ MSE（Mean-Square Error）
 
 $$ L(\theta)= \frac {1}{N} \sum_{i=1}^N \left( ri+\ \gamma \underbrace{max \ Q{_\theta}^1} _{a^1}  (S _i ^1,a^1)-Q _\theta(S_i,a_i)\right)^2  $$  
 
-Target Q value  
+Target network(Target Q value)  
 
 $$ ri+\ \gamma \underbrace{max \ Q{_\theta}^1} _{a^1}  (S _i ^1,a^1) $$  
 
-Predicted Q value  
+(Main network)Predicted Q value  
 
 $$ Q _\theta(S_i,a_i)  $$  
 
