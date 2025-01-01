@@ -2,8 +2,8 @@ https://gymnasium.farama.org/environments/toy_text/frozen_lake/
 
 ---
 深度Q網路(DQN)Deep Q Network  
-經驗回放緩沖區(Experience Replay Buffer)  
-損失函數(Loss Function)  
+1)經驗回放緩沖區(Experience Replay Buffer)  
+2)損失函數(Loss Function)  
 MSE（Mean-Square Error）  
 
 $$ L(\theta)= \frac {1}{N} \sum_{i=1}^N \left( ri+\ \gamma \underbrace{max \ Q{_\theta}^1} _{a^1}  (S _i ^1,a^1)-Q _\theta(S_i,a_i)\right)^2  $$  
@@ -16,7 +16,7 @@ $$ ri+\ \gamma \underbrace{max \ Q{_\theta}^1} _{a^1}  (S _i ^1,a^1) $$
 
 $$ Q _\theta(S_i,a_i)  $$  
 
-梯度下降法(Gradient Descent)  
+3)梯度下降法(Gradient Descent)  
 
 $$ \theta=\theta-a \nabla_\theta L(\theta) $$  
 
