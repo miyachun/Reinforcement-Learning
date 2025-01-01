@@ -32,4 +32,4 @@ $$ MSE(T)=var(T)+(bias(T))^2 $$
 
 均方誤差（MSE）對於損失函數的意義  
 
-$$ MSE= \sum_{i=1}^N \left(yi-yi^p \right)^2  $$  
+$$ MSE= \sum_{i=1}^n \left(yi-yi^p \right)^2  $$  
