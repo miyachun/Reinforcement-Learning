@@ -1,3 +1,3 @@
 https://gymnasium.farama.org/environments/toy_text/frozen_lake/  
 
-$$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
+$$\left( \sum_{i=1}^N\right$$
