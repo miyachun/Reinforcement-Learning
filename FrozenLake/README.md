@@ -3,6 +3,8 @@ https://gymnasium.farama.org/environments/toy_text/frozen_lake/
 ---
 深度Q網路(DQN)Deep Q Network  
 1)經驗回放緩沖區(Experience Replay Buffer)  
+收集經驗資料於Main network，當資料足夠時，抽樣進行訓練  
+
 2)損失函數(Loss Function)  
 MSE（Mean-Square Error）  
 
