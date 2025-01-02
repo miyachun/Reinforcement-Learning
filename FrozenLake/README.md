@@ -35,6 +35,10 @@ $$ Q _\theta(S_i,a_i)  $$
 
 $$ \theta=\theta-a \nabla_\theta L(\theta) $$  
 
+a學習速率
+
+\nabla_\theta L(\theta) 梯度
+
 ---
 
 
