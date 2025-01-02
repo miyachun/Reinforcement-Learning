@@ -3,10 +3,17 @@ https://gymnasium.farama.org/environments/toy_text/frozen_lake/
 ---
 收集資料(Replay buffer)->s,a,r,s1  
 (A,down,+1,D)(D,right,+1,E)(E,up,-1,B)  
-Minibatch
+
 MSE（Mean-Square Error） 
 
 $$ L(\theta)= \frac {1}{N} \sum_{i=1}^N \left(yi-\widehat{y}i)\right)^2  $$
+
+
+
+
+Main network
+
+
 
 ---
 深度Q網路(DQN)Deep Q Network  
