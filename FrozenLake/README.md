@@ -10,7 +10,6 @@ $$ L(\theta)= \frac {1}{N} \sum_{i=1}^N \left(yi-\widehat{y}i)\right)^2  $$
 
 
 
-
 Main network
 
 
