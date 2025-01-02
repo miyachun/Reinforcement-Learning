@@ -9,6 +9,8 @@ MSE（Mean-Square Error）
 $$ L(\theta)= \frac {1}{N} \sum_{i=1}^N \left(yi-\widehat{y}i)\right)^2  $$
 
 
+當收集資料後，隨機收集為Minibatch  
+損失函數
 
 Main network
 
