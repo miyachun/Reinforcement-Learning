@@ -30,7 +30,8 @@ $$ ri+\ \gamma \underbrace{max} _{a^1} Q { _\theta }^1  (S _i ^1,a^1) $$
 
 $$ Q _\theta(S_i,a_i)  $$  
 
-3)梯度下降法(Gradient Descent)  
+3)最佳化法Optimizer  
+梯度下降法(Gradient Descent)  
 
 $$ \theta=\theta-a \nabla_\theta L(\theta) $$  
 
