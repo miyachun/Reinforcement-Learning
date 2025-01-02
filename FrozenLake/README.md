@@ -20,7 +20,7 @@ Main network
 2)損失函數(Loss Function)  
 MSE（Mean-Square Error）  
 
-$$ L(\theta)= \frac {1}{N} \sum_{i=1}^N \left( ri+\ \gamma \underbrace{max} _{a^1} \ Q {_\theta}^1 (S _i ^1,a^1)-Q _\theta(S_i,a_i)\right)^2  $$  
+$$ L(\theta)= \frac {1}{N} \sum_{i=1}^N \left( ri+\ \gamma \underbrace{max} _{a^1} \ Q_\theta (S _i ^1,a^1)-Q _\theta(S_i,a_i)\right)^2  $$  
 
 (Target network)Target Q value  
 
