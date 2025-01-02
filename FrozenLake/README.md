@@ -24,7 +24,6 @@ $$ Q _\theta(S_i,a_i)  $$
 $$ \theta=\theta-a \nabla_\theta L(\theta) $$  
 
 學習速率a  
-
 梯度  $$\nabla_\theta L(\theta) $$
 
 ---
