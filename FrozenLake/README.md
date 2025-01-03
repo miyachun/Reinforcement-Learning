@@ -55,3 +55,5 @@ $$ MSE(T)=var(T)+(bias(T))^2 $$
 
 
 $$ MSE= \sum_{i=1}^n \left(yi-yi^p \right)^2  $$  
+
+  
