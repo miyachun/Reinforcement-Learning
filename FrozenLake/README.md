@@ -30,7 +30,7 @@ $$ \theta=\theta-a \nabla_\theta L(\theta) $$
 
 (DDQN)Double DQN Network  
 
-$$ L(\theta)= \frac {1}{N} \sum_{i=1}^N \left( ri+\ \gamma Q { _\theta }^1 (S^1 ,argmax Q_theta) (S _i ^1,a^1)-Q _\theta(S_i,a_i)\right)^2  $$  
+$$ L(\theta)= \frac {1}{N} \sum_{i=1}^N \left( ri+\ \gamma Q { _\theta }^1 (S^1 ,argmax Q {_theta}) (S _i ^1,a^1)-Q _\theta(S_i,a_i)\right)^2  $$  
 
 
 ---
